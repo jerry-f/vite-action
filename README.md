@@ -1,10 +1,10 @@
-This repo is a GitHub Actions demo of publishing a React App into GitHub Pages.
+## GitHub Pages.
 
-View the [workflow file](./.github/workflows/ci.yml) and the [published website](https://ruanyf.github.io/github-actions-demo).
+View the [workflow file](./.github/workflows/ci.yml) 
 
-Read the details in [my blog](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) (in Chinese).
+View the [pages](https://jerry-f.github.io/vite-action/)
 
-# Vue 3 + Vite
+## Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
